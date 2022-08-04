@@ -126,14 +126,14 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top
+      - layout: left
         title: infoShare Academy
         sub_title: Junior Python Developer Weekend Bootcamp
         caption: 2021
         description: |
           It was intense, 445-hours course where I learned about web development with Django, design patterns, unit testing, UX.
 
-      - layout: top
+      - layout: left
         title: University of Gdańsk
         sub_title: Bachelor's Degree, Computer Science
         caption: 2009 - 2014
