@@ -52,13 +52,13 @@ linkedin_username: adam-zmuda
 # about_title: About Me (Use this to override about section title)
 #about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: |
-  I'm a DevOps Engineer experienced with <mark>Azure Cloud</mark>. I think that <mark>Everything as a Code</mark> is the best way to manage... everything.
-  That's why I use the <mark>GitOps</mark> methodology, with a mix of tools like <mark>Terraform</mark> and <mark>Azure DevOps Pipelines</mark> to deploy infrastructure.
-  <mark>FluxCD</mark> and <mark>Mozilla SOPS</mark> to manage <mark>Kubernetes</mark> clusters.
+  I'm a DevOps Engineer experienced with **Azure Cloud**. I think that **Everything as a Code** is the best way to manage... everything.
+  That's why I use the **GitOps** methodology, with a mix of tools like **Terraform** and **Azure DevOps Pipelines** to deploy infrastructure.
+  **FluxCD** and **Mozilla SOPS** to manage **Kubernetes** clusters.
 
   Whenever an opportunity arises I contribute to open-source projects, mostly by updating documentation.
 
-  I have some <mark>Python</mark> knowledge that I use in my current role to create and maintain applications and CLI tools.
+  I have some **Python** knowledge that I use in my current role to create and maintain applications and CLI tools.
 content:
   - title: Experience
     layout: list
